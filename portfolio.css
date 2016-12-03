@@ -1,3 +1,15 @@
 img{
 	max-width: 100%;
 }
+
+.greeting{
+	margin-top: 50px;
+}
+
+.margin-little{
+	padding-left: 5px;
+}
+
+.contact-me{
+	padding-top: 40px;
+}
